@@ -118,3 +118,36 @@ font-size: large;
     width: 1.5%;
     margin: 0px 0px 0px 2px;
 }
+#leftarticle1{
+  display: inline-block;
+  margin-left: 3%;
+  width: 300px;
+  height: 300px;
+}
+#leftarticle1>p{
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#time{
+  color: #85DFFF;
+}
+#iframe1{
+  display: inline-block;
+  background-color: #85DFFF;
+  width: 770px;
+  height: 350px;
+  margin-left: 35px;
+}
+footer{
+  background-color:#252f3f;
+  text-align: center;
+  color: white;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+footer>p,h2{
+  display: inline-block;
+}
+  
+
